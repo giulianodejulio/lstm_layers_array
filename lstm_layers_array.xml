@@ -1,0 +1,5 @@
+<library path="lib/liblstm_layer_array">
+  <class type="lstm_layer_array_namespace::LstmLayerArray" base_class_type="costmap_2d::Layer">
+    <description>Layer that updates the costmap with the info of the LSTM</description>
+  </class>
+</library>
